@@ -141,7 +141,11 @@ button:hover{
  
     }
     .md-title h1{
-        font-size: 16px;
+        font-size: 18px;
+        font-weight: 800;
+    }
+    .md-title h2{
+        font-size: 12px;
         font-weight: 800;
     }
     section{
