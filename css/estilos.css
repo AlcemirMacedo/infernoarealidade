@@ -41,7 +41,7 @@ header{
 }
 
 .md-title{
-    background-color: #B1B171;
+    background-color: #ffffff;
     flex: 5;
     display: flex;
     flex-direction: column;
@@ -60,10 +60,10 @@ header{
 }
 section{
     width: 100%;
-    background-color:  #B1B171;
+    background-color:  #ffffff;
     margin-top: 10px;
     border-radius: 10px;
-    padding: 20px 10px ;
+    padding: 1Px 1px ;
     text-align: center;
     font-size: 16px;
     font-weight: bold;
@@ -109,7 +109,7 @@ button:hover{
         margin-top: 3px;
         width: 100%;
         font-size: 8px;
-        padding: 3px 3px ;
+        padding: 1px 1px ;
         font-weight: 600;
         border-radius: 5px;
     }
@@ -139,8 +139,8 @@ button:hover{
     }
     .md-title{
         flex: 3;
-        margin-left: 3px;
-        margin-right: 3px;
+        margin-left: 1px;
+        margin-right: 1px;
  
     }
     .md-title h1{
@@ -153,7 +153,7 @@ button:hover{
     }
     section{
         width: 100%;
-        padding: 10px 5px ;
+        padding: 3px 1px ;
     }
     .ptitle{
         margin-bottom: 5px;
